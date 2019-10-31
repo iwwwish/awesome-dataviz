@@ -169,7 +169,7 @@ Tools that are not tied to a particular platform or language.
 ## Podcasts
 - [Data Stories](http://datastori.es/)
 - [DataFramed](https://www.datacamp.com/community/podcast)
-
+- [DAta Viz Today](https://dataviztoday.com/)
 ## Twitter accounts
 - [Alberto Cairo](https://twitter.com/albertocairo)
 - [Benjamin Wiederkehr](https://twitter.com/datavis)
